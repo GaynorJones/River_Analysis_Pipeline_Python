@@ -1,5 +1,7 @@
 # River Analysis Pipeline (Python)
 
+Part of a growing portfolio in environmental data analysis using Python.
+
 ## Project Overview
 
 This project is my **first full Python data analysis pipeline**, developed as part of my learning journey into computer science and environmental data analysis.
@@ -67,3 +69,7 @@ This project represents the foundation on which later projects are built.
 This is a **learning-first project**, and the code reflects that.
 
 Later projects in this repository will show how the same ideas can be implemented more efficiently and with more advanced tools.
+
+## Related Projects
+
+- [Global Temperature Anomaly Analysis (Python)](https://github.com/GaynorJones/Global-Temperature-Anomaly-Analysis-Python)
